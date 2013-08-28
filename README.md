@@ -1,0 +1,4 @@
+railsfordummies
+===============
+
+Simple Rails project
